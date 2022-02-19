@@ -1,5 +1,7 @@
 # 4DMineSweeper_ts
 
+open index.html in any browser.
+
 操作方法
 
 【マウス】
